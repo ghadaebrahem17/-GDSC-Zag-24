@@ -1,0 +1,63 @@
+
+h1{
+    padding: 0px  20px 50px 5px;
+}
+    
+
+.sh1{  display: inline;
+    background: rgb(175, 170, 170);
+    padding: 30px  40px 30px 40px;
+    margin: 10px;
+    border: 5px solid red;
+    outline: 5px solid rgb(0, 0, 11);
+
+}
+.sh2{    display: inline;
+    background: rgb(175, 170, 170);
+    padding: 30px  40px 30px 40px;
+    margin: 10px;
+    border-left: 5px solid rgb(21, 133, 9);
+    border-right:  5px solid rgb(21, 133, 9);
+    border-top: 5px solid blue;
+    border-bottom:  5px solid blue;
+    outline: 5px solid black;
+}
+.sh3{  display: inline;
+    background: rgb(175, 170, 170);
+    padding: 30px  40px 30px 40px;
+    margin: 10px;
+    border-left: 5px dashed yellow;
+    border-top: 5px dashed red;
+    border-bottom: 5px dashed blue;
+    border-right: 5px dashed green;
+    outline: 5px solid black ;
+}
+.element-1{
+    
+border-left: 5px solid red;
+background-color: rgb(198, 225, 225);
+padding: 10px 10px 10px 10px;
+margin: auto;
+width: 400px;
+
+}
+.element-2{
+   
+    border-left: 5px solid rgba(0, 255, 38, 0.87);
+background-color: rgb(198, 225, 225);
+padding: 10px 10px 10px 10px;
+margin: auto;
+width: 400px;
+visibility: hidden;
+}
+.element-3{
+    border-left: 5px solid blue;
+    background-color: rgb(198, 225, 225);
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    width: 400px;
+
+}
+
+
+    
