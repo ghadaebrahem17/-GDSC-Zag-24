@@ -1,0 +1,81 @@
+.p1, 
+.p2, 
+.p3, 
+.p4{ 
+    background-color: rgb(207, 28, 28) ;
+    min-width: 40px;
+    max-width: 400px; 
+    padding: 10px ; 
+    color: rgb(221, 234, 245); 
+    border: 10px solid white;
+    text-transform: capitalize;
+   
+}
+.p1{
+    width: fit-content;
+    max-width: 400px;
+}
+.p2{
+    width: 200px;
+}
+.p3{ height: 20px;
+}
+.p4{
+    max-width: 400px;
+    max-height: 30px;
+    overflow: hidden;
+}
+.E1{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+}
+.E2{
+    text-transform: capitalize;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+}
+.E3{
+    text-transform: lowercase;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+}
+.Mod{
+    background-color: black;
+    color: rgb(243, 237, 229);
+    padding: 20px;
+    width: 400px;
+    border-left: solid 5px rgb(19, 187, 100) ;
+    margin: 30px;
+}
+.Mod_1,
+.Mod_2,
+.Mod_3{
+    background-color: rgb(230, 226, 232);
+    margin: 50px auto ;
+    padding: 20px;
+    max-width: 400px;
+    font-family: "cairo" sans-serif;
+    font-weight: normal;
+    line-height: 1.6;
+}
+.Mod_1{
+    max-width: 400px;
+    height: auto;
+}
+.Mod_2{
+    height: 30px;
+    overflow: hidden;
+    word-break: keep-all;
+}
+.Mod_3{
+    height: 20px;
+    word-break: normal;
+    overflow: hidden ;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+   
+}
